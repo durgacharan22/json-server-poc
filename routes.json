@@ -1,0 +1,13 @@
+{
+  "/CoreCMS.Web/api/item/create": "/create-item",
+  "/CoreCMS.Web/api/item/get:itemId": "/get-item?itemId=:itemId",
+  "/CoreCMS.Web/api/rtfwidget/create": "/create-rtf",
+  "/CoreCMS.Web/api/rtfwidget/update": "/update-rtf",
+  "/CoreCMS.Web/api/mcqwidget/create": "/create-mcq",
+  "/CoreCMS.Web/api/mcqwidget/update": "/update-mcq",
+  "/corecms.web/api/journalentrywidget/create": "/create-journalEntry",
+  "/CoreCMS.Web/api/journalentrywidget/update": "/update-journalEntry",
+  "/CoreCMS.Web/api/item/addwidgettoitem": "/add-widget-to-item",
+  "/CoreCMS.Web/api/item/reorderwidget": "/reorder-widget",
+  "/CoreCMS.Web/api/item/deletewidgetFromItem": "/delete-widget"
+}

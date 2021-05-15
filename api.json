@@ -1,0 +1,28 @@
+{
+  "create-item": {
+    "itemType": 1
+  },
+  "get-item": {
+    "itemType": 2
+  },
+  "create-rtf": {
+    "itemType": 3
+  },
+  "update-rtf": {
+    "itemType": 4
+  },
+  "create-mcq": {
+    "itemType": 5
+  },
+  "update-mcq": {
+    "itemType": 6
+  },
+  "item-create": {
+    "itemType": 7
+  },
+  "delete-widget": {
+    "id": 600009,
+    "widgetId": "3622710e-aa0a-4c38-8fe3-d75dc343754e",
+    "version": "xxxxxxxxx-xxxxxxxxxxxxxx-xxxxxxxxxxxxx"
+  }
+}
